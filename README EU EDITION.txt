@@ -2,6 +2,8 @@
 -November Release
 -Added multi resolution support!
 -EU VERSION!
+-LEAVE SPACES EVERY 4 DIGITS WHEN IT ASKS FOR CARD NUMBER!!
+-LEAVE SPACES EVERY 4 DIGITS WHEN IT ASKS FOR CARD NUMBER!!
 
 Country Code:
 UK 0 
