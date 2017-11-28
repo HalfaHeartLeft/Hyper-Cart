@@ -3,6 +3,8 @@
 -Added multi resolution support!
 
 Requirement:
+-LEAVE SPACES EVERY 4 DIGITS WHEN IT ASKS FOR CARD NUMBER!!
+-LEAVE SPACES EVERY 4 DIGITS WHEN IT ASKS FOR CARD NUMBER!!
 -Full screen browser
 -Google Chrome
 -If using a mac visit https://www.wikihow.com/Open-Exe-Files-on-Mac
