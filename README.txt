@@ -1,6 +1,9 @@
 -Hyper Cart v3.1
 -December Release
 
+Donate Here: https://hypercart.wixsite.com/mysite/donate
+Each donation helps me keep Hyper Cart up to date!
+
 Requirement:
 -Full screen browser
 -Google Chrome
