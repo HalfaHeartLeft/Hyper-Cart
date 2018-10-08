@@ -1,18 +1,17 @@
--Hyper Cart v2.0
+-Hyper Cart v3.1
 -December Release
 
 Requirement:
 -Full screen browser
 -Google Chrome
--If using a mac visit https://www.wikihow.com/Open-Exe-Files-on-Mac
+-If using a mac, use windows bootcamp
 
 How do I use it?
--Run Hyper Cart v2.0.exe
--Click (`) to enter in all your information
+-Run Hyper Cart
 -Fill out all the info
 -Your browser must be full screen
 -Check out
--Hold down control and A (Ctrl A) and it fills it out automatically and buys the item
+-Click (`)
 -Celebrate
 
 Is this a bot?
@@ -33,9 +32,6 @@ Will it work forever?
 Problems?
 -Email me at buyhypercart@gmail.com
 
-Wanna Donate? 
--bitcoin 1LXBTaVA2EPEo9t555KDk5E8jRXuzpKc3c
-
 
 About the developer:
 	I'm a college student pursuing my degree in computer science and engineering.
@@ -43,6 +39,9 @@ I created this for manual users that wanted a chance against bots. All of your p
 will go towards my eduacation (and coffee). Thank you for supporting 
 Hyper Cart. 
 
+GL - Zach
+			 										   				 							
+														
 
 
 
